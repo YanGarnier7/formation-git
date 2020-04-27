@@ -1,0 +1,5 @@
+# .gitignore
+# Exclude some local files or directory from Git tracking
+
+*./config
+*.ini
