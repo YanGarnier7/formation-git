@@ -1,2 +1,3 @@
 First line into first.txt
 Second line
+Third line
