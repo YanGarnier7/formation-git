@@ -1,3 +1,2 @@
 First line into first.txt
-Second line
-Third line 1
+Modify the Second line
